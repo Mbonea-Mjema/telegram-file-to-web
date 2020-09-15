@@ -44,4 +44,4 @@ location / {
 * `SHOW_INDEX` (default to False) 是否在 `LINK_PREFIX` 下显示 bot 信息和链接
 
 ### Try
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mbonea-Mjema/telegram-file-to-web)
